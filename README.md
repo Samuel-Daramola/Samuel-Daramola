@@ -40,7 +40,7 @@
   <a href="mailto:samueldaramola2000@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://x.com/SamuelDaramola10" target="_blank">
+  <a href=https://x.com/SamuelDaramol10?t=U9ZLGU45fWIqaMToGMDWwQ&s=09 target="_blank">
     <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" />
   </a>
 </p>
