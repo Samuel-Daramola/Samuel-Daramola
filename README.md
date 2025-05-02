@@ -34,7 +34,7 @@
 ## 🔗 Let's Connect
 
 <p align="left">
-  <a href="www.linkedin.com/in/samuel-daramola-5bab3b182" target="_blank">
+  <a href="[www.linkedin.com/in/samuel-daramola-5bab3b182](https://www.linkedin.com/in/samuel-daramola-5bab3b182/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:samueldaramola2000@gmail.com">
