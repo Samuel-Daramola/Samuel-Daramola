@@ -1,18 +1,29 @@
 # Hi there 👋, My name is Samuel Daramola
-## I'm a Mathematics graduate, a Data Analyst and a Data Scientist
+## Data Analyst, Mathematics Graduate, AI Evaluator.
 ![G-Image](https://github.com/user-attachments/assets/dcf8b986-b320-4818-8654-51d20aac75bb)
 
 ---
 ## 📸 About Me
  
+# Samuel Daramola — Data Analyst & Mathematics Graduate
+Mathematics graduate (BSc, Second Class Upper, University of Lagos) with a strong quantitative foundation in real analysis, statistical modelling, and numerical methods. Experienced in Python, SQL, and Power BI for end-to-end data analysis — from cleaning and exploration to insight delivery and reporting. Proven ability to apply structured, systematic thinking to evaluate data quality and communicate findings clearly. Actively seeking remote data analysis, AI training/evaluation, or junior analytics roles.
+
+🎓 BSc Mathematics, University of Lagos (2nd Class Upper, 2024)
+📊 Python | SQL | Power BI | Excel
+📍 Lagos, Nigeria | Open to remote work globally
 
 - 🧠 I'm a problem solver
-
-- 🎓 BSc Mathematics.
 
 - 📊 I enjoy transforming data into actionable insights and building smart solutions.
 
 - ⚡ Fun fact: I play football and I love to cook
+
+## Projects
+- 🎬 Netflix Content Analysis — trend analysis across 8,000+ titles
+- 🏫 NYC School Scores — borough-level performance analysis in Python
+- 🦠 COVID-19 Dashboard — interactive Power BI visualisation
+- 📈 Lagos Population Modelling — Euler method, Final Year Project (Grade A)
+ 
  
 ---
 ## Profile visits
